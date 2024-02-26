@@ -1,0 +1,9 @@
+-e git+https://github.com/awslabs/aws-glue-libs.git#egg=aws-glue-libs
+coverage==7.4.3
+iniconfig==2.0.0
+packaging==23.2
+pluggy==1.4.0
+py4j==0.10.9.7
+pyspark==3.5.0
+pytest==8.0.2
+pytest-cov==4.1.0
